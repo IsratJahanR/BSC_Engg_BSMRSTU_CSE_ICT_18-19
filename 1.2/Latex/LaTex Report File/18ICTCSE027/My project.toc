@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}Author Details }{1}%
+\contentsline {section}{\numberline {2}Introduction}{3}%
+\contentsline {section}{\numberline {3}\textbf {What is 3D DOCTOR ?}}{3}%
+\contentsline {subsection}{\numberline {3.1}About 3D Doctor}{3}%
+\contentsline {subsection}{\numberline {3.2}How it works?}{4}%
+\contentsline {section}{\numberline {4}\begin {LARGE} Applications of 3D Doctor \end {LARGE}}{5}%
+\contentsline {section}{\numberline {5}Bone Modeling From CT Scan}{6}%
+\contentsline {subsection}{\numberline {5.1}How it works }{6}%
+\contentsline {subsection}{\numberline {5.2}Multiple image addition}{6}%
+\contentsline {section}{\numberline {6}Math Equation}{7}%
+\contentsline {subsection}{\numberline {6.1}Superscript}{7}%
+\contentsline {subsection}{\numberline {6.2}Subscript}{7}%
+\contentsline {subsection}{\numberline {6.3}Squrare Roots}{7}%
+\contentsline {subsection}{\numberline {6.4}Different types of Operators}{7}%
+\contentsline {subsection}{\numberline {6.5}Fraction}{7}%
+\contentsline {section}{\numberline {7}Table}{8}%
+\contentsline {subsection}{\numberline {7.1}4 coloum 2 row table}{8}%
+\contentsline {section}{\numberline {8}Reference}{8}%

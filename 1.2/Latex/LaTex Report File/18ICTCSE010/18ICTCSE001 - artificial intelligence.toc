@@ -1,0 +1,5 @@
+\contentsline {section}{\numberline {1}What Is Artificial Intelligence}{1}%
+\contentsline {section}{\numberline {2}Difference between AI and Machine Learning}{1}%
+\contentsline {section}{\numberline {3}Why Is Artificial Intelligence Important}{2}%
+\contentsline {section}{\numberline {4}Different Types Of AI}{3}%
+\contentsline {section}{\numberline {5}How Artificial Intelligence Is Being Used}{3}%

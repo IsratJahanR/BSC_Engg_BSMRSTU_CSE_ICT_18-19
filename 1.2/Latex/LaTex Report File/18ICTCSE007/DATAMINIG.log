@@ -1,0 +1,197 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.8)  18 SEP 2020 21:25
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**DATAMINIG.tex
+(./DATAMINIG.tex
+LaTeX2e <2020-02-02>
+L3 programming layer <2020-02-03>
+(c:/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(c:/texlive/2019/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(c:/texlive/2019/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count175
+\float@exts=\toks15
+\float@box=\box45
+\@float@everytoks=\toks16
+\@floatcapt=\box46
+)
+(c:/texlive/2019/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count176
+\l__pdf_internal_box=\box47
+)
+(./DATAMINIG.aux)
+\openout1 = `DATAMINIG.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+(c:/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count177
+\scratchdimen=\dimen137
+\scratchbox=\box48
+\nofMPsegments=\count178
+\nofMParguments=\count179
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count180
+\MPscratchDim=\dimen138
+\MPnumerator=\count181
+\makeMPintoPDFobject=\count182
+\everyMPtoPDFconversion=\toks18
+) (c:/texlive/2019/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+<downloadbsmrstucse.jpg, id=1, 226.8475pt x 223.83624pt>
+File: downloadbsmrstucse.jpg Graphic file (type jpg)
+<use downloadbsmrstucse.jpg>
+Package pdftex.def Info: downloadbsmrstucse.jpg  used on input line 21.
+(pdftex.def)             Requested size: 292.99792pt x 289.07999pt.
+ [1
+
+{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./downloadbsmrs
+tucse.jpg>] [1] (./DATAMINIG.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 6.
+ [2
+
+])
+\tf@toc=\write3
+\openout3 = `DATAMINIG.toc'.
+
+ [3]
+<Data_Mining_Features (1).png, id=22, 1027.84pt x 513.92pt>
+File: Data_Mining_Features (1).png Graphic file (type png)
+<use Data_Mining_Features (1).png>
+Package pdftex.def Info: Data_Mining_Features (1).png  used on input line 75.
+(pdftex.def)             Requested size: 484.21408pt x 242.10493pt.
+
+Overfull \hbox (149.21164pt too wide) in paragraph at lines 75--76
+ []\TS1/cmr/m/n/10 ˆˆ[] 
+ []
+
+[1
+
+ <./Data_Mining_Features (1).png>]
+<data_mining_2.png, id=27, 887.315pt x 63.23625pt>
+File: data_mining_2.png Graphic file (type png)
+<use data_mining_2.png>
+Package pdftex.def Info: data_mining_2.png  used on input line 84.
+(pdftex.def)             Requested size: 456.32921pt x 32.52127pt.
+
+Overfull \hbox (121.32677pt too wide) in paragraph at lines 84--85
+[]\TS1/cmr/m/n/10 ˆˆ[] 
+ []
+
+
+Overfull \hbox (3.18974pt too wide) in paragraph at lines 113--113
+\OML/cmm/m/it/10 istosearchforpropertiesofacquireddata:Agoodwaytoexplorethedata
+istoanswer[] 
+ []
+
+[2 <./data_mining_2.png>] [3] [4] [5]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
+38.
+
+(c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 138.
+
+Overfull \hbox (115.86198pt too wide) in paragraph at lines 146--154
+ [][] 
+ []
+
+<data_mining_1.png, id=46, 651.43375pt x 389.455pt>
+File: data_mining_1.png Graphic file (type png)
+<use data_mining_1.png>
+Package pdftex.def Info: data_mining_1.png  used on input line 158.
+(pdftex.def)             Requested size: 284.07713pt x 169.83493pt.
+[6] [7 <./data_mining_1.png>] [8] (./DATAMINIG.aux) ) 
+Here is how much of TeX's memory you used:
+ 1268 strings out of 481248
+ 18596 string characters out of 5922089
+ 255180 words of memory out of 5000000
+ 16551 multiletter control sequences out of 15000+600000
+ 536301 words of font info for 37 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,8n,27p,1133b,236s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2019/texmf-dis
+t/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2019/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx9.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcs
+c10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive
+/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2019/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2019/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/p
+ublic/cm-super/sfrm1000.pfb>
+Output written on DATAMINIG.pdf (12 pages, 214519 bytes).
+PDF statistics:
+ 91 PDF objects out of 1000 (max. 8388607)
+ 59 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+

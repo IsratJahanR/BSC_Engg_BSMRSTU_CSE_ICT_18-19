@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {0.1}Type of operating system}{2}{section.0.1}%
+\contentsline {section}{\numberline {0.2}History}{2}{section.0.2}%
+\contentsline {section}{\numberline {0.3}Examples}{2}{section.0.3}%
+\contentsline {section}{\numberline {0.4}Components}{3}{section.0.4}%
+\contentsline {section}{\numberline {0.5}Real-time operating systems}{3}{section.0.5}%
+\contentsline {section}{\numberline {0.6}Operating system development as a hobby}{3}{section.0.6}%
+\contentsline {section}{\numberline {0.7}Diversity of operating systems and portability}{4}{section.0.7}%

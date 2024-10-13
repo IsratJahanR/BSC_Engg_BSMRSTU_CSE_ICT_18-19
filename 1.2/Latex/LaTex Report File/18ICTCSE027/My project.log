@@ -1,0 +1,201 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.28)  23 JAN 2020 09:59
+entering extended mode
+**"./My project.tex"
+("My project.tex"
+LaTeX2e <2019-10-01> patch level 3
+("C:\Users\Shihab\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
+("C:\Users\Shihab\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Shihab\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr
+.sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip43
+\f@nch@O@elh=\skip44
+\f@nch@O@erh=\skip45
+\f@nch@O@olh=\skip46
+\f@nch@O@orh=\skip47
+\f@nch@O@elf=\skip48
+\f@nch@O@erf=\skip49
+\f@nch@O@olf=\skip50
+\f@nch@O@orf=\skip51
+)
+("C:\Users\Shihab\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx
+.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Shihab\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.s
+ty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\Shihab\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics
+.sty"
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Shihab\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty
+"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Shihab\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\grap
+hics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\Shihab\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdft
+ex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+) ("My project.aux")
+\openout1 = `"My project.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+("C:\Users\Shihab\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-
+pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box27
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+)
+("C:\Users\Shihab\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epst
+opdf-base.sty"
+Package: epstopdf-base 2019-12-09 v2.10 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+ [1
+
+{C:/Users/Shihab/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] ("My proje
+ct.toc"
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+)
+\tf@toc=\write3
+\openout3 = `"My project.toc"'.
+
+ [2]
+<c.jpg, id=14, 986.7264pt x 740.0448pt>
+File: c.jpg Graphic file (type jpg)
+<use c.jpg>
+Package pdftex.def Info: c.jpg  used on input line 37.
+(pdftex.def)             Requested size: 301.12425pt x 200.75201pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--42
+
+ []
+
+[3 <./c.jpg>]
+<d.jpg, id=19, 246.6816pt x 185.0112pt>
+File: d.jpg Graphic file (type jpg)
+<use d.jpg>
+Package pdftex.def Info: d.jpg  used on input line 47.
+(pdftex.def)             Requested size: 301.15436pt x 301.14212pt.
+ [4 <./d.jpg>]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 5
+7.
+
+("C:\Users\Shihab\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 57.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 15.40804pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[5]
+<mul1.jpg, id=28, 277.5168pt x 208.1376pt>
+File: mul1.jpg Graphic file (type jpg)
+<use mul1.jpg>
+Package pdftex.def Info: mul1.jpg  used on input line 87.
+(pdftex.def)             Requested size: 138.75806pt x 104.06854pt.
+<mul2.jpg, id=29, 246.6816pt x 179.2296pt>
+File: mul2.jpg Graphic file (type jpg)
+<use mul2.jpg>
+Package pdftex.def Info: mul2.jpg  used on input line 88.
+(pdftex.def)             Requested size: 123.34048pt x 89.61456pt.
+<mul4.jpg, id=30, 111.0549pt x 83.3514pt>
+File: mul4.jpg Graphic file (type jpg)
+<use mul4.jpg>
+Package pdftex.def Info: mul4.jpg  used on input line 89.
+(pdftex.def)             Requested size: 77.73788pt x 58.34555pt.
+ [6 <./mul1.jpg> <./mul2.jpg> <./mul4.jpg>] [7] [8] ("My project.aux") ) 
+Here is how much of TeX's memory you used:
+ 1213 strings out of 492445
+ 16035 string characters out of 3119350
+ 81167 words of memory out of 3000000
+ 5599 multiletter control sequences out of 15000+200000
+ 9912 words of font info for 34 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,11n,45p,447b,276s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Use
+rs/Shihab/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx
+10.pfb><C:/Users/Shihab/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb><C:/Users/Shihab/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmbxsl10.pfb><C:/Users/Shihab/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Shihab/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Shiha
+b/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C
+:/Users/Shihab/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr12.pfb><C:/Users/Shihab/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmr5.pfb><C:/Users/Shihab/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Shihab/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/Shihab/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/Shihab
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
+:/Users/Shihab/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmti12.pfb>
+Output written on "My project.pdf" (8 pages, 789750 bytes).
+PDF statistics:
+ 86 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+

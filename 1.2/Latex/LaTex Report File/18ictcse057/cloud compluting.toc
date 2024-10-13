@@ -1,0 +1,24 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}\color {green}History}{4}%
+\contentsline {section}{\numberline {2}\color {green}Characteristics}{4}%
+\contentsline {section}{\numberline {3}\color {green}Service models}{4}%
+\contentsline {subsection}{\numberline {3.1}\leavevmode {\color {magenta}Infrastructure as a service (IaaS)}}{5}%
+\contentsline {subsection}{\numberline {3.2}\leavevmode {\color {magenta}Platform as a service (PaaS)}}{5}%
+\contentsline {subsection}{\numberline {3.3}\leavevmode {\color {magenta}Software as a service (SaaS)}}{5}%
+\contentsline {subsection}{\numberline {3.4}\leavevmode {\color {magenta}Serverless computing}}{6}%
+\contentsline {section}{\numberline {4}\color {green}{Deployment models}}{6}%
+\contentsline {subsection}{\numberline {4.1}\leavevmode {\color {magenta}Private Cloud}}{6}%
+\contentsline {subsection}{\numberline {4.2}\leavevmode {\color {magenta}Public Cloud}}{6}%
+\contentsline {subsection}{\numberline {4.3}\leavevmode {\color {magenta}Hybrid Cloud}}{6}%
+\contentsline {subsection}{\numberline {4.4}\leavevmode {\color {magenta}Other}}{6}%
+\contentsline {subsubsection}{\numberline {4.4.1}\leavevmode {\color {yellow}Community cloud}}{6}%
+\contentsline {subsubsection}{\numberline {4.4.2}\leavevmode {\color {yellow}Distributed cloud}}{6}%
+\contentsline {subsubsection}{\numberline {4.4.3}\leavevmode {\color {yellow}Multicloud}}{7}%
+\contentsline {subsubsection}{\numberline {4.4.4}\leavevmode {\color {yellow}Poly cloud}}{7}%
+\contentsline {subsubsection}{\numberline {4.4.5}\leavevmode {\color {yellow}Big Data cloud}}{7}%
+\contentsline {section}{\numberline {5}\color {green}Architecture}{7}%
+\contentsline {subsection}{\numberline {5.1}\leavevmode {\color {magenta}Cloud engineering}}{8}%
+\contentsline {section}{\numberline {6}\color {green}Security and privacy}{8}%
+\contentsline {section}{\numberline {7}\color {green}Limitations and disadvantages}{8}%
+\contentsline {section}{\numberline {8}\color {green}Emerging trends}{9}%
+\contentsline {section}{\numberline {9}\color {green}Digital forensics in the cloud}{9}%

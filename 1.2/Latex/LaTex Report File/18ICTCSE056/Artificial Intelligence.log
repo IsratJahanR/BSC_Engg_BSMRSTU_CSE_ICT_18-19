@@ -1,0 +1,958 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.23)  23 JAN 2020 11:45
+entering extended mode
+**"./Artificial Intelligence.tex"
+("Artificial Intelligence.tex"
+LaTeX2e <2019-10-01> patch level 3
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2019/11/14 3.36 The Babel package
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2019/11/14 3.36 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\engli
+sh.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2019/11/14 3.36 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.de
+f")
+\bbl@dirlevel=\count89
+)
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language72) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language72) on input line 108.
+))
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\utf8x.def"
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\ucs.sty"
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\uni-global.def"
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count90
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+) ("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty
+"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.
+cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
+.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
+ty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
+ty"
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
+cs.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/wrapfig\wrapfig.sty
+"
+\wrapoverhang=\dimen106
+\WF@size=\dimen107
+\c@WF@wrappedlines=\count91
+\WF@box=\box27
+\WF@everypar=\toks20
+Package: wrapfig 2003/01/31  v 3.6
+) ("Artificial Intelligence.aux")
+\openout1 = `"Artificial Intelligence.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\ucsencs.def"
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
+f.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count92
+\scratchdimen=\dimen108
+\scratchbox=\box28
+\nofMPsegments=\count93
+\nofMParguments=\count94
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen109
+\MPnumerator=\count96
+\makeMPintoPDFobject=\count97
+\everyMPtoPDFconversion=\toks22
+)
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstop
+df-base.sty"
+Package: epstopdf-base 2019/11/24 v2.7 Base part for package epstopdf
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwarer
+r.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty
+"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefine
+keys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.
+sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.
+sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetkey
+s.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmds
+.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex.st
+y"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+ ("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)))))
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexcm
+ds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+42.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 460.
+)
+\GPT@outputbox=\box29
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
+(Font)              using `OT1/cmr/bx/n' instead on input line 19.
+
+<BSMRSTU-Logo.png, id=1, 289.08pt x 289.08pt>
+File: BSMRSTU-Logo.png Graphic file (type png)
+<use BSMRSTU-Logo.png>
+Package pdftex.def Info: BSMRSTU-Logo.png  used on input line 21.
+(pdftex.def)             Requested size: 54.92577pt x 54.92577pt.
+[1
+
+{C:/Users/Asus/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./BSMRSTU-Lo
+go.png>]
+Overfull \hbox (15.57056pt too wide) in paragraph at lines 53--54
+[]\OT1/cmr/bx/n/10 What Is Ar-ti-fi-cial In-tel-li-gence ?\OT1/cmr/m/n/10 .....
+..........................................................ii 
+ []
+
+
+Overfull \hbox (17.75908pt too wide) in paragraph at lines 54--55
+[]\OT1/cmr/bx/n/10 History\OT1/cmr/m/n/10 .....................................
+....................................................................iii 
+ []
+
+
+Overfull \hbox (17.22191pt too wide) in paragraph at lines 55--56
+[]\OT1/cmr/bx/n/10 Category of Ar-ti-fi-cial In-tel-li-gence\OT1/cmr/m/n/10 ...
+........................................................iii 
+ []
+
+
+Overfull \hbox (18.30641pt too wide) in paragraph at lines 57--58
+[]\OT1/cmr/m/n/10 Reactive Ma-chines...........................................
+.......................................iii 
+ []
+
+
+Overfull \hbox (17.72316pt too wide) in paragraph at lines 58--59
+[]\OT1/cmr/m/n/10 Limited Mem-ory..............................................
+.......................................iv 
+ []
+
+
+Overfull \hbox (18.69539pt too wide) in paragraph at lines 59--60
+[]\OT1/cmr/m/n/10 Theory of Mind...............................................
+........................................iv 
+ []
+
+
+Overfull \hbox (19.362pt too wide) in paragraph at lines 60--61
+[]\OT1/cmr/m/n/10 Self-Awareness...............................................
+..........................................v 
+ []
+
+
+Overfull \hbox (20.0148pt too wide) in paragraph at lines 62--63
+[]\OT1/cmr/bx/n/10 Applications of Ar-ti-fi-cial In-tel-li-gence\OT1/cmr/m/n/10
+ .......................................................v 
+ []
+
+
+Overfull \hbox (21.22302pt too wide) in paragraph at lines 64--65
+[]\OT1/cmr/m/n/10 Artificial In-tel-li-gence in Health-care....................
+......................................vi 
+ []
+
+
+Overfull \hbox (20.66747pt too wide) in paragraph at lines 65--66
+[]\OT1/cmr/m/n/10 Artificial In-tel-li-gence In Busi-ness......................
+.......................................vi 
+ []
+
+
+Overfull \hbox (20.66643pt too wide) in paragraph at lines 66--67
+[]\OT1/cmr/m/n/10 AI In Au-tonomous Ve-hi-cle..................................
+.....................................vi 
+ []
+
+
+Overfull \hbox (22.91649pt too wide) in paragraph at lines 67--68
+[]\OT1/cmr/m/n/10 AI For Robotics..............................................
+.........................................vii 
+ []
+
+
+Overfull \hbox (21.94539pt too wide) in paragraph at lines 69--70
+[]\OT1/cmr/bx/n/10 The Top Myths About Ad-vanced AI\OT1/cmr/m/n/10 ............
+...........................................vii 
+ []
+
+
+Overfull \hbox (22.43013pt too wide) in paragraph at lines 70--71
+[]\OT1/cmr/bx/n/10 Future Scope of Ar-ti-fi-cial In-tel-li-gence\OT1/cmr/m/n/10
+ ....................................................viii 
+ []
+
+
+Overfull \hbox (23.02869pt too wide) in paragraph at lines 72--73
+[]\OT1/cmr/m/n/10 Breakthrough in Sci-ence.....................................
+....................................viii 
+ []
+
+
+Overfull \hbox (23.72316pt too wide) in paragraph at lines 73--74
+[]\OT1/cmr/m/n/10 Cyber Se-cu-rity.............................................
+...........................................viii 
+ []
+
+
+Overfull \hbox (22.55647pt too wide) in paragraph at lines 74--75
+[]\OT1/cmr/m/n/10 Face Recog-ni-tion...........................................
+...........................................ix 
+ []
+
+
+Overfull \hbox (23.36208pt too wide) in paragraph at lines 75--76
+[]\OT1/cmr/m/n/10 Data Anal-y-sis..............................................
+.............................................ix 
+ []
+
+
+Overfull \hbox (22.94542pt too wide) in paragraph at lines 76--77
+[]\OT1/cmr/m/n/10 Transport....................................................
+.............................................ix 
+ []
+
+
+Overfull \hbox (22.60622pt too wide) in paragraph at lines 78--80
+[]\OT1/cmr/bx/n/10 References\OT1/cmr/m/n/10 ..................................
+....................................................................x 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--87
+
+ []
+
+[1] ("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\uni-32.def"
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+<AI 1st Image.jpg, id=15, 1003.75pt x 660.4675pt>
+File: AI 1st Image.jpg Graphic file (type jpg)
+<use AI 1st Image.jpg>
+Package pdftex.def Info: AI 1st Image.jpg  used on input line 92.
+(pdftex.def)             Requested size: 190.71448pt x 125.49013pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--99
+
+ []
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\uni-1.def"
+File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
+)
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+[2 <./AI 1st Image.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 107--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+
+ []
+
+<Chess Play.png, id=21, 642.4pt x 396.48125pt>
+File: Chess Play.png Graphic file (type png)
+<use Chess Play.png>
+Package pdftex.def Info: Chess Play.png  used on input line 120.
+(pdftex.def)             Requested size: 209.58255pt x 129.35095pt.
+
+Underfull \hbox (badness 2547) in paragraph at lines 124--125
+[][]\OT1/cmr/m/n/10 These are the old-est
+ []
+
+
+Underfull \hbox (badness 2119) in paragraph at lines 124--125
+\OT1/cmr/m/n/10 pa-bil-ity. They em-u-late
+ []
+
+
+Underfull \hbox (badness 3386) in paragraph at lines 124--125
+\OT1/cmr/m/n/10 the hu-man mind's abil-
+ []
+
+
+Underfull \hbox (badness 6220) in paragraph at lines 124--125
+\OT1/cmr/m/n/10 ity to re-spond to dif-
+ []
+
+
+Underfull \hbox (badness 5862) in paragraph at lines 124--125
+\OT1/cmr/m/n/10 fer-ent kinds of stim-uli.
+ []
+
+
+Underfull \hbox (badness 4505) in paragraph at lines 124--125
+\OT1/cmr/m/n/10 These ma-chines do not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+[3 <./Chess Play.png>]
+<Limited-Memory-AI-Types-Of-Artificial-Intelligence.jpg, id=25, 1067.99pt x 613
+.29124pt>
+File: Limited-Memory-AI-Types-Of-Artificial-Intelligence.jpg Graphic file (type
+ jpg)
+<use Limited-Memory-AI-Types-Of-Artificial-Intelligence.jpg>
+Package pdftex.def Info: Limited-Memory-AI-Types-Of-Artificial-Intelligence.jpg
+  used on input line 135.
+(pdftex.def)             Requested size: 216.81pt x 124.4996pt.
+
+Underfull \hbox (badness 1783) in paragraph at lines 140--141
+\OT1/cmr/m/n/10 model for solv-ing fu-ture
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 140--141
+\OT1/cmr/m/n/10 prob-lems. For in-stance,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+[4 <./Limited-Memory-AI-Types-Of-Artificial-Intelligence.jpg>]
+<Self-Aware-AI-Types-Of-Artificial-Intelligence.jpg, id=29, 937.5025pt x 650.43
+pt>
+File: Self-Aware-AI-Types-Of-Artificial-Intelligence.jpg Graphic file (type jpg
+)
+<use Self-Aware-AI-Types-Of-Artificial-Intelligence.jpg>
+Package pdftex.def Info: Self-Aware-AI-Types-Of-Artificial-Intelligence.jpg  us
+ed on input line 160.
+(pdftex.def)             Requested size: 216.81pt x 150.4195pt.
+
+Underfull \hbox (badness 1755) in paragraph at lines 164--165
+\OT1/cmr/m/n/10 III ar-ti-fi-cial in-tel-li-gences.
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 164--165
+\OT1/cmr/m/n/10 ings are aware of them-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+
+ []
+
+[5 <./Self-Aware-AI-Types-Of-Artificial-Intelligence.jpg>]
+<AI Health.jpg, id=33, 963.6pt x 547.04375pt>
+File: AI Health.jpg Graphic file (type jpg)
+<use AI Health.jpg>
+Package pdftex.def Info: AI Health.jpg  used on input line 181.
+(pdftex.def)             Requested size: 216.81pt x 123.07953pt.
+
+Underfull \hbox (badness 2080) in paragraph at lines 185--186
+\OT1/cmr/m/n/10 IBM's Wat-son. It un-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+
+ []
+
+<AI Vehicle.jpg, id=34, 1284.8pt x 722.7pt>
+File: AI Vehicle.jpg Graphic file (type jpg)
+<use AI Vehicle.jpg>
+Package pdftex.def Info: AI Vehicle.jpg  used on input line 198.
+(pdftex.def)             Requested size: 216.81pt x 121.95311pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--201
+[]\OT1/cmtt/m/n/12 4.3. AI in Autonomous Vehicles :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+
+ []
+
+[6 <./AI Health.jpg> <./AI Vehicle.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+
+ []
+
+<Myth.jpg, id=39, 432.61626pt x 561.09625pt>
+File: Myth.jpg Graphic file (type jpg)
+<use Myth.jpg>
+Package pdftex.def Info: Myth.jpg  used on input line 218.
+(pdftex.def)             Requested size: 209.58255pt x 271.82314pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--221
+[]\OT1/cmtt/m/n/12 5.The Top Myths About Advanced AI :
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 223--225
+[]\OT1/cmr/bx/n/24.88 A \OT1/cmr/m/n/10 cap-ti-vat-ing con-
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 223--225
+\OT1/cmr/m/n/10 ver-sa-tion is tak-ing place
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 223--225
+\OT1/cmr/m/n/10 ture im-pact on the job
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 223--225
+\OT1/cmr/m/n/10 mar-ket; if/when human-
+ []
+
+
+Underfull \hbox (badness 4048) in paragraph at lines 223--225
+\OT1/cmr/m/n/10 level AI will be de-vel-
+ []
+
+
+Underfull \hbox (badness 2846) in paragraph at lines 223--225
+\OT1/cmr/m/n/10 oped; whether this will
+ []
+
+
+Underfull \hbox (badness 4060) in paragraph at lines 223--225
+\OT1/cmr/m/n/10 is some-thing we should
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 223--225
+\OT1/cmr/m/n/10 wel-come or fear. But
+ []
+
+
+Overfull \hbox (2.31015pt too wide) in paragraph at lines 223--225
+\OT1/cmr/m/n/10 controversies caused by peo-
+ []
+
+
+Underfull \hbox (badness 2573) in paragraph at lines 223--225
+\OT1/cmr/m/n/10 talk-ing past each other.
+ []
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 223--225
+\OT1/cmr/m/n/10 the in-ter-est-ing con-tro-ver-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--225
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--225
+
+ []
+
+[7 <./Myth.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
+
+ []
+
+<AI In Cyber.png, id=43, 792.9625pt x 415.5525pt>
+File: AI In Cyber.png Graphic file (type png)
+<use AI In Cyber.png>
+Package pdftex.def Info: AI In Cyber.png  used on input line 245.
+(pdftex.def)             Requested size: 209.58255pt x 109.82921pt.
+
+Underfull \hbox (badness 3068) in paragraph at lines 250--251
+\OT1/cmr/m/n/10 The in-ci-dence of cy-ber-
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 250--251
+\OT1/cmr/m/n/10 in term of brand im-age
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+
+ []
+
+[8 <./AI In Cyber.png (PNG copy)>]
+<Face Reg.jpg, id=47, 642.4pt x 354.32375pt>
+File: Face Reg.jpg Graphic file (type jpg)
+<use Face Reg.jpg>
+Package pdftex.def Info: Face Reg.jpg  used on input line 258.
+(pdftex.def)             Requested size: 209.58255pt x 115.59718pt.
+
+Underfull \hbox (badness 2318) in paragraph at lines 263--265
+\OT1/cmr/m/n/10 cam-era. Au-then-ti-cat-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--265
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--270
+
+ []
+
+<AI Transport.jpg, id=48, 391.4625pt x 184.43906pt>
+File: AI Transport.jpg Graphic file (type jpg)
+<use AI Transport.jpg>
+Package pdftex.def Info: AI Transport.jpg  used on input line 277.
+(pdftex.def)             Requested size: 209.58255pt x 98.74568pt.
+
+Overfull \hbox (1.08798pt too wide) in paragraph at lines 281--282
+[][]\OT1/cmr/m/n/10 AI-guided trans-port will
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 281--282
+\OT1/cmr/m/n/10 ture. Self- driv-ing cars
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
+
+ []
+
+[9 <./Face Reg.jpg> <./AI Transport.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 285--287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--287
+
+ []
+
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 2
+89.
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 289.
+
+Overfull \hbox (8.85095pt too wide) in paragraph at lines 289--290
+[]\OT1/cmr/bx/n/10 https://www.forbes.com/sites/tomtaulli/2019/10/12/ai-artific
+ial-
+ []
+
+
+Overfull \hbox (3.59695pt too wide) in paragraph at lines 289--290
+\OT1/cmr/bx/n/10 intelligence--whats-the-next-frontier-for-healthcare/15507fdf3
+353 
+ []
+
+
+Overfull \hbox (21.31755pt too wide) in paragraph at lines 290--291
+[]\OT1/cmr/bx/n/10 https://www.online-sciences.com/tag/ai-in-transportation-fea
+tures/ 
+ []
+
+
+Overfull \hbox (28.0024pt too wide) in paragraph at lines 295--296
+[]\OT1/cmr/bx/n/10 http://thescienceexplorer.com/technology/understanding-four-
+types-
+ []
+
+
+Overfull \hbox (1.39133pt too wide) in paragraph at lines 296--297
+[]\OT1/cmr/bx/n/10 https://www.timetoast.com/timelines/evolution-of-ai-3959c9ed
+-
+ []
+
+
+Overfull \hbox (28.0024pt too wide) in paragraph at lines 297--298
+[]\OT1/cmr/bx/n/10 http://thescienceexplorer.com/technology/understanding-four-
+types-
+ []
+
+
+Overfull \hbox (21.31755pt too wide) in paragraph at lines 300--301
+[]\OT1/cmr/bx/n/10 https://www.online-sciences.com/tag/ai-in-transportation-fea
+tures/ 
+ []
+
+[10] ("Artificial Intelligence.aux")
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3872 strings out of 492484
+ 54033 string characters out of 3122054
+ 131022 words of memory out of 3000000
+ 8164 multiletter control sequences out of 15000+200000
+ 8692 words of font info for 31 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,7n,37p,1184b,474s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmbx10.pfb><C:/Users/Asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><C:/Users/Asus/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Asus/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Asus/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Asus/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Use
+rs/Asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10
+.pfb><C:/Users/Asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmtt12.pfb>
+Output written on "Artificial Intelligence.pdf" (11 pages, 1365057 bytes).
+PDF statistics:
+ 82 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+

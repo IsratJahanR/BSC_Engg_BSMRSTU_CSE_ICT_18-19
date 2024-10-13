@@ -1,0 +1,460 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2019.9.18)  9 JAN 2020 13:22
+entering extended mode
+**./reportlatex.tex
+(reportlatex.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files (x86)\MiKTeX 2.91\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.91\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.91\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.91\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.91\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.91\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.91\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files (x86)\MiKTeX 2.91\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.91\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.91\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files (x86)\MiKTeX 2.91\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks15
+\float@box=\box26
+\@float@everytoks=\toks16
+\@floatcapt=\box27
+)
+(reportlatex.aux)
+\openout1 = `reportlatex.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+
+("C:\Program Files (x86)\MiKTeX 2.91\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files (x86)\MiKTeX 2.91\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.91\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files (x86)\MiKTeX 2.91\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files (x86)\MiKTeX 2.91\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.91\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files (x86)\MiKTeX 2.91\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.91\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.91\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Overfull \hbox (55.0pt too wide) in paragraph at lines 9--9
+ []| 
+ []
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] (reportlatex.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 6.
+)
+\tf@toc=\write3
+\openout3 = `reportlatex.toc'.
+
+
+[1]
+
+LaTeX Warning: File `E:/18ICTCSE039 report/math.jpg' not found on input line 31
+.
+
+<E:/18ICTCSE039 report/math.jpg, id=12, 1284.8pt x 722.7pt>
+File: E:/18ICTCSE039 report/math.jpg Graphic file (type jpg)
+
+<use E:/18ICTCSE039 report/math.jpg>
+Package pdftex.def Info: E:/18ICTCSE039 report/math.jpg used on input line 31.
+(pdftex.def)             Requested size: 321.19922pt x 180.67499pt.
+
+Overfull \hbox (49.5883pt too wide) in paragraph at lines 31--32
+[]\OT1/cmr/m/n/10 report/math.jpg [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no î in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--42
+
+ []
+
+[1
+
+ <E:/18ICTCSE039 report/math.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+[3]
+
+LaTeX Warning: File `E:/18ICTCSE039 report/algebra.jpg' not found on input line
+ 55.
+
+<E:/18ICTCSE039 report/algebra.jpg, id=22, 264.99pt x 191.71625pt>
+File: E:/18ICTCSE039 report/algebra.jpg Graphic file (type jpg)
+
+<use E:/18ICTCSE039 report/algebra.jpg>
+Package pdftex.def Info: E:/18ICTCSE039 report/algebra.jpg used on input line 5
+5.
+(pdftex.def)             Requested size: 249.74162pt x 180.67499pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--63
+
+ []
+
+[4 <E:/18ICTCSE039 report/algebra.jpg>]
+
+LaTeX Warning: File `E:/18ICTCSE039 report/trigonometry.jpg' not found on input
+ line 69.
+
+<E:/18ICTCSE039 report/trigonometry.jpg, id=26, 225.84375pt x 225.84375pt>
+File: E:/18ICTCSE039 report/trigonometry.jpg Graphic file (type jpg)
+
+<use E:/18ICTCSE039 report/trigonometry.jpg>
+Package pdftex.def Info: E:/18ICTCSE039 report/trigonometry.jpg used on input l
+ine 69.
+(pdftex.def)             Requested size: 180.68556pt x 180.67499pt.
+Missing character: There is no ≈ in font cmr10!
+Missing character: There is no ç in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--76
+
+ []
+
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no î in font cmr10!
+
+LaTeX Warning: File `E:/18ICTCSE039 report/triangle.png' not found on input lin
+e 81.
+
+<E:/18ICTCSE039 report/triangle.png, id=27, 168.63pt x 118.19156pt>
+File: E:/18ICTCSE039 report/triangle.png Graphic file (type png)
+
+<use E:/18ICTCSE039 report/triangle.png>
+Package pdftex.def Info: E:/18ICTCSE039 report/triangle.png used on input line 
+81.
+(pdftex.def)             Requested size: 257.78433pt x 180.67499pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--82
+
+ []
+
+[5 <E:/18ICTCSE039 report/trigonometry.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+
+LaTeX Warning: File `E:/18ICTCSE039 report/equilateral.png' not found on input 
+line 87.
+
+<E:/18ICTCSE039 report/equilateral.png, id=34, 119.69719pt x 130.98938pt>
+File: E:/18ICTCSE039 report/equilateral.png Graphic file (type png)
+
+<use E:/18ICTCSE039 report/equilateral.png>
+Package pdftex.def Info: E:/18ICTCSE039 report/equilateral.png used on input li
+ne 87.
+(pdftex.def)             Requested size: 99.06187pt x 108.405pt.
+
+
+LaTeX Warning: File `E:/18ICTCSE039 report/isosceles.png' not found on input li
+ne 88.
+
+<E:/18ICTCSE039 report/isosceles.png, id=35, 119.69719pt x 133.24782pt>
+File: E:/18ICTCSE039 report/isosceles.png Graphic file (type png)
+
+<use E:/18ICTCSE039 report/isosceles.png>
+Package pdftex.def Info: E:/18ICTCSE039 report/isosceles.png used on input line
+ 88.
+(pdftex.def)             Requested size: 97.38339pt x 108.405pt.
+
+
+LaTeX Warning: File `E:/18ICTCSE039 report/obtuse.png' not found on input line 
+89.
+
+<E:/18ICTCSE039 report/obtuse.png, id=36, 119.69719pt x 136.25906pt>
+File: E:/18ICTCSE039 report/obtuse.png Graphic file (type png)
+
+<use E:/18ICTCSE039 report/obtuse.png>
+Package pdftex.def Info: E:/18ICTCSE039 report/obtuse.png used on input line 89
+.
+(pdftex.def)             Requested size: 95.2282pt x 108.405pt.
+
+
+LaTeX Warning: File `E:/18ICTCSE039 report/rignt-triangle.png' not found on inp
+ut line 90.
+
+<E:/18ICTCSE039 report/rignt-triangle.png, id=37, 162.6075pt x 130.98938pt>
+File: E:/18ICTCSE039 report/rignt-triangle.png Graphic file (type png)
+
+<use E:/18ICTCSE039 report/rignt-triangle.png>
+Package pdftex.def Info: E:/18ICTCSE039 report/rignt-triangle.png used on input
+ line 90.
+(pdftex.def)             Requested size: 134.57463pt x 108.405pt.
+
+
+LaTeX Warning: File `E:/18ICTCSE039 report/scalene.png' not found on input line
+ 91.
+
+<E:/18ICTCSE039 report/scalene.png, id=38, 207.77625pt x 130.98938pt>
+File: E:/18ICTCSE039 report/scalene.png Graphic file (type png)
+
+<use E:/18ICTCSE039 report/scalene.png>
+Package pdftex.def Info: E:/18ICTCSE039 report/scalene.png used on input line 9
+1.
+(pdftex.def)             Requested size: 171.95647pt x 108.405pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--92
+[]\OT1/cmr/m/n/10 report/equilateral.png [] re-port/isosceles.png
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--92
+[] \OT1/cmr/m/n/10 re-port/obtuse.png []
+ []
+
+
+Underfull \hbox (badness 7099) in paragraph at lines 87--92
+\OT1/cmr/m/n/10 report/rignt-triangle.png [] re-port/scalene.png
+ []
+
+[6 <E:/18ICTCSE039 report/triangle.png>] [7 <E:/18ICTCSE039 report/equilateral.
+png> <E:/18ICTCSE039 report/isosceles.png> <E:/18ICTCSE039 report/obtuse.png> <
+E:/18ICTCSE039 report/rignt-triangle.png> <E:/18ICTCSE039 report/scalene.png>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no ò in font cmr10!
+
+<G:/somokoni-tribhuj.jpg, id=45, 167.87718pt x 166.37157pt>
+File: G:/somokoni-tribhuj.jpg Graphic file (type jpg)
+
+<use G:/somokoni-tribhuj.jpg>
+Package pdftex.def Info: G:/somokoni-tribhuj.jpg used on input line 98.
+(pdftex.def)             Requested size: 182.32161pt x 180.67499pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+[8 <G:/somokoni-tribhuj.jpg>] [9]
+Underfull \hbox (badness 10000) in paragraph at lines 121--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--126
+
+ []
+
+[10]
+
+LaTeX Warning: File `E:/18ICTCSE039 report/calculus.jpg' not found on input lin
+e 136.
+
+<E:/18ICTCSE039 report/calculus.jpg, id=55, 354.32375pt x 143.53625pt>
+File: E:/18ICTCSE039 report/calculus.jpg Graphic file (type jpg)
+
+<use E:/18ICTCSE039 report/calculus.jpg>
+Package pdftex.def Info: E:/18ICTCSE039 report/calculus.jpg used on input line 
+136.
+(pdftex.def)             Requested size: 446.01234pt x 180.67499pt.
+
+Overfull \hbox (186.12364pt too wide) in paragraph at lines 136--137
+[]\OT1/cmr/m/n/10 report/calculus.jpg [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--142
+
+ []
+
+[11 <E:/18ICTCSE039 report/calculus.jpg>] (reportlatex.aux) ) 
+Here is how much of TeX's memory you used:
+ 1294 strings out of 493334
+ 19849 string characters out of 3136245
+ 79836 words of memory out of 3000000
+ 4834 multiletter control sequences out of 15000+200000
+ 6667 words of font info for 24 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 40i,8n,25p,957b,218s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files 
+(x86)/MiKTeX 2.91/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (
+x86)/MiKTeX 2.91/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x
+86)/MiKTeX 2.91/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files (x
+86)/MiKTeX 2.91/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x8
+6)/MiKTeX 2.91/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)
+/MiKTeX 2.91/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on reportlatex.pdf (13 pages, 314111 bytes).
+PDF statistics:
+ 80 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+

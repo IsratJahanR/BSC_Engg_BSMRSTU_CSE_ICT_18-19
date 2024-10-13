@@ -1,0 +1,4 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}History and Properties}{3}%
+\contentsline {subsection}{\numberline {1.1}History}{3}%
+\contentsline {subsection}{\numberline {1.2}Properties}{3}%

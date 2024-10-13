@@ -1,0 +1,250 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.8)  9 FEB 2020 13:20
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**18ICTCSE040.tex
+(./18ICTCSE040.tex
+LaTeX2e <2020-02-02>
+L3 programming layer <2020-02-03>
+(c:/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(c:/texlive/2019/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(c:/texlive/2019/texmf-dist/tex/latex/lipsum/lipsum.sty
+(c:/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-02-03 L3 programming layer (loader) 
+
+(c:/texlive/2019/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count175
+\l__pdf_internal_box=\box45
+))
+(c:/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2020-02-03 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count176
+\g__xparse_grabber_int=\count177
+\l__xparse_m_args_int=\count178
+\l__xparse_v_nesting_int=\count179
+)
+Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
+
+(c:/texlive/2019/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
+File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
+))
+(c:/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(c:/texlive/2019/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(c:/texlive/2019/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+\Gm@cnth=\count180
+\Gm@cntv=\count181
+\c@Gm@tempcnt=\count182
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks15
+)
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+)
+(./18ICTCSE040.aux)
+\openout1 = `18ICTCSE040.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includefoot 
+* h-part:(L,W,R)=(108.405pt, 416.83289pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=416.83289pt
+* \textheight=670.50687pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(c:/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count183
+\scratchdimen=\dimen145
+\scratchbox=\box46
+\nofMPsegments=\count184
+\nofMParguments=\count185
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count186
+\MPscratchDim=\dimen146
+\MPnumerator=\count187
+\makeMPintoPDFobject=\count188
+\everyMPtoPDFconversion=\toks17
+) (c:/texlive/2019/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)) [1
+
+{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<dmsm.jpg, id=9, 255.20343pt x 106.52296pt>
+File: dmsm.jpg Graphic file (type jpg)
+<use dmsm.jpg>
+Package pdftex.def Info: dmsm.jpg  used on input line 40.
+(pdftex.def)             Requested size: 255.2028pt x 106.52269pt.
+ [1 <./dmsm.jpg>]
+(./18ICTCSE040.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 11.
+)
+\tf@toc=\write3
+\openout3 = `18ICTCSE040.toc'.
+
+ [2
+
+]
+<sa.png, id=17, 803.0pt x 2007.5pt>
+File: sa.png Graphic file (type png)
+<use sa.png>
+Package pdftex.def Info: sa.png  used on input line 71.
+(pdftex.def)             Requested size: 180.6672pt x 180.6672pt.
+
+Overfull \hbox (1.13956pt too wide) in paragraph at lines 73--73
+[] \OT1/cmr/bx/n/14.4 YOU HAVE A DI-RECT CON-NEC-TION WITH YOUR
+ []
+
+[1
+
+ <./sa.png>] [2] [3] [4]
+<as.png, id=33, 867.24pt x 250.9375pt>
+File: as.png Graphic file (type png)
+<use as.png>
+Package pdftex.def Info: as.png  used on input line 141.
+(pdftex.def)             Requested size: 325.2142pt x 216.82054pt.
+ [5 <./as.png>]
+<sab.png, id=38, 867.24pt x 250.9375pt>
+File: sab.png Graphic file (type png)
+<use sab.png>
+Package pdftex.def Info: sab.png  used on input line 154.
+(pdftex.def)             Requested size: 361.35353pt x 361.39183pt.
+ [6 <./sab.png>]
+<asb.png, id=43, 867.24pt x 250.9375pt>
+File: asb.png Graphic file (type png)
+<use asb.png>
+Package pdftex.def Info: asb.png  used on input line 166.
+(pdftex.def)             Requested size: 361.35353pt x 289.11192pt.
+ [7 <./asb.png>]
+<aa.png, id=48, 867.24pt x 250.9375pt>
+File: aa.png Graphic file (type png)
+<use aa.png>
+Package pdftex.def Info: aa.png  used on input line 188.
+(pdftex.def)             Requested size: 361.35353pt x 289.11192pt.
+<ss.png, id=49, 867.24pt x 250.9375pt>
+File: ss.png Graphic file (type png)
+<use ss.png>
+Package pdftex.def Info: ss.png  used on input line 198.
+(pdftex.def)             Requested size: 361.35353pt x 289.11192pt.
+
+[8 <./aa.png>] [9 <./ss.png>] (./18ICTCSE040.aux) ) 
+Here is how much of TeX's memory you used:
+ 2276 strings out of 481248
+ 40435 string characters out of 5922089
+ 542748 words of memory out of 5000000
+ 17547 multiletter control sequences out of 15000+600000
+ 536001 words of font info for 36 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 35i,6n,38p,680b,232s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2019/texmf-dist/
+fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2019/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmcsc10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on 18ICTCSE040.pdf (12 pages, 623824 bytes).
+PDF statistics:
+ 77 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
