@@ -1,87 +1,125 @@
-#include <iostream>
-#include <cmath>
+#include <bits/stdc++.h>
 using namespace std;
 
-// Function to compute GCD
-int gcd(int a, int h) {
-    int temp;
-    while (1) {
-        temp = a % h;
-        if (temp == 0)
-            return h;
-        a = h;
-        h = temp;
-    }
-}
+class RSA {
+private:
+    set<int> prime;
+    int public_key;
+    int private_key;
+    int n;
 
-// Extended Euclidean Algorithm to find modular inverse of e mod phi
-int modInverse(int e, int phi) {
-    int m0 = phi, t, q;
-    int x0 = 0, x1 = 1;
-
-    if (phi == 1)
-        return 0;
-
-    while (e > 1) {
-        q = e / phi;
-        t = phi;
-
-        phi = e % phi, e = t;
-        t = x0;
-
-        x0 = x1 - q * x0;
-        x1 = t;
+    void primeGenerate()
+    {
+        vector<bool> seive(500, true);
+        seive[0] = false;
+        seive[1] = false;
+        for (int i = 2; i < 500; i++) {
+            for (int j = i * 2; j < 500; j += i) {
+                seive[j] = false;
+            }
+        }
+        for (int i = 0; i < seive.size(); i++) {
+            if (seive[i])
+                prime.insert(i);
+        }
     }
 
-    if (x1 < 0)
-        x1 += m0;
-
-    return x1;
-}
-
-// Function for modular exponentiation
-int modExp(int base, int exp, int mod) {
-    int result = 1;
-    base = base % mod;
-    while (exp > 0) {
-        if (exp % 2 == 1)
-            result = (result * base) % mod;
-        exp = exp >> 1;
-        base = (base * base) % mod;
+    int getRandomPrime() {
+        int k = rand() % prime.size();
+        auto it = prime.begin();
+        while (k--)
+            it++;
+        int ret = *it;
+        prime.erase(it);
+        return ret;
     }
-    return result;
-}
+
+    int gcd(int a, int b) {
+        if (b == 0) return a;
+        return gcd(b, a % b);
+    }
+
+public:
+
+    void setkeys() {
+        int p = getRandomPrime();
+        int q = getRandomPrime();
+        n = p * q;
+        int fi = (p- 1) * (q - 1);
+
+        int e = 2;
+        while (1)
+        {
+            if (gcd(e, fi) == 1)break;
+            e++;
+        }
+        public_key = e;
+        int d = 2;
+        while (1) {
+            if ((d * e) % fi == 1)break;
+            d++;
+        }
+        private_key = d;
+    }
+    RSA() {
+        primeGenerate();
+        setkeys();
+    }
+
+    long long int mod_pow(int txt,int key)
+    {
+
+        long long int ans = 1;
+        while (key--)
+        {
+            ans *= txt;
+            ans %= n;
+        }
+        return ans;
+    }
+
+
+    vector<int> encodeMessage(const string& message)
+    {
+        int e = public_key;
+        vector<int> encoded;
+        for (auto& letter : message)
+            encoded.push_back(mod_pow((int)letter,e));
+        return encoded;
+    }
+
+    string decodeMessage(const vector<int>& encoded) {
+        int d = private_key;
+        string decoded;
+        for (auto& num : encoded)
+            decoded += mod_pow(num,d);
+        return decoded;
+    }
+
+    void displayKeys() {
+        cout << "Public Key: " << public_key << "\nPrivate Key: " << private_key << "\nn: " << n << endl;
+    }
+};
 
 int main() {
-    // Two random prime numbers
-    int p = 61; // Example prime number
-    int q = 53; // Example prime number
 
-    // Compute n and phi(n)
-    int n = p * q;
-    int phi = (p - 1) * (q - 1);
+    RSA rsa;
 
-    // Public key (e, n)
-    int e = 17; // Commonly used small prime number
-    while (gcd(e, phi) != 1) {
-        e++;
-    }
+    string message = "Test Message";
+    cin>>message;
+    cout << "Original message : " << message << endl;
 
-    // Private key (d, n), where d is the modular inverse of e modulo phi(n)
-    int d = modInverse(e, phi);
+    //rsa. displayKeys();
 
-    // Input message
-    int msg;
-    cout << "Enter the message to encrypt (as an integer): ";
-    cin >> msg;
+    vector<int> encodedMessage = rsa.encodeMessage(message);
+    cout << "\nEncoded message  : ";
+    for (auto& p : encodedMessage)cout << p<<" ";
 
-    // Encryption: c = (msg ^ e) % n
-    int c = modExp(msg, e, n);
-    cout << "Encrypted message: " << c << endl;
+    cout<<endl;
 
-    // Decryption: m = (c ^ d) % n
-    int m = modExp(c, d, n);
-    cout << "Decrypted message: " << m << endl;
+    cout << "Decoded message  : ";
+    string decodedMessage = rsa.decodeMessage(encodedMessage);
+    cout << decodedMessage << endl;
 
     return 0;
 }
