@@ -1,0 +1,37 @@
+iPhone 6|5.44|2.64|N|129
+iPhone 6 Plus|6.22|3.06|N|172
+iPhone 6S|5.44|2.64|N|143
+iPhone 6S Plus|6.23|3.07|N|192
+iPhone 7|5.44|2.64|N|138
+iPhone 7 Plus|6.23|3.07|N|188
+iPhone 8|5.45|2.65|N|148
+iPhone 8 Plus|6.24|3.07|N|202
+iPhone X|5.65|2.79|Y|174
+iPhone XR|5.94|2.98|Y|194
+iPhone XS|5.65|2.79|Y|177
+iPhone XS Max|6.20|3.05|Y|208
+Nokia G10|6.49|2.99|N|194
+Nokia XR|6.75|3.21|N|248
+Nokia 8V 5G|6.77|3.09|N|227
+Nokia 3 V|6.35|3.00|N|189
+HMD XR21|6.61|3.09|N|231
+HMD Vibe|6.45|2.96|N|185
+Vivo T3x|6.52|2.99|Y|199
+Vivo V40 SE|6.43|2.98|Y|186
+Vivo Y03|6.45|2.98|Y|185
+Vivo S18|6.47|2.96|Y|186
+Vivo G2|6.44|2.97|Y|186
+Galaxy Note3|5.95|3.12|N|168
+Galaxy Note4|6.04|3.09|N|176
+Galaxy S5|5.59|2.85|N|145
+TCL 403|6.27|3.08|N|182
+TCL A30|5.74|2.80|N|171
+LG W31|6.54|3.00|N|173
+LG Q52|6.50|3.02|N|186
+OnePlus 3|6.01|2.94|N|158
+OnePlus 12|6.47|2.98|N|220
+Oppo A3|6.40|2.97|N|178
+Google Pixel 8a|5.99|2.86|N|188
+Google Pixel 8|5.93|2.79|N|187
+ZTE Blade V50|6.37|2.87|N|178
+ZTE V70|6.45|3.00|N|192
